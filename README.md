@@ -59,13 +59,3 @@ Effective Date: 2025-07-21
 Contact
 For questions or suggestions, contact the Service Provider at:
 willianrobertoseidel@gmail.com
-
-Notes:
-
-Replace curriculorapidopdf, willianrobertoseidel, and willianrobertoseidel@gmail.com.
-
-If your app targets children, add compliance with Google’s Families Policy.
-
-For ads, ensure your app follows AdMob’s policies.
-
-This version keeps your original structure while clarifying local storage, ads, and user responsibilities. Let me know if you'd like adjustments!
